@@ -1,5 +1,5 @@
 # "Onward Friends, To Adventure."
-## 2D Game with Unity
+## 2D Shooting Game with Unity
 
 ## Introduction
 This is my First Project with Unity program.
